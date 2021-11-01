@@ -1,6 +1,22 @@
-### Hi there 👋
+>#### OS
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a><br>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+>#### Language
+<img src="https://img.shields.io/badge/C language-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
+
+>#### Programming(Studying...)
+<img src="https://img.shields.io/badge/Socket Programming-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Shell Programming-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
+
+
+
+
+
+
 
 <!--
 **ChoSeongYun/ChoSeongYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
