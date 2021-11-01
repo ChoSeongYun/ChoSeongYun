@@ -7,9 +7,10 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
 
->#### Programming(Studying...)
+>#### Studying
 <img src="https://img.shields.io/badge/Socket Programming-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Shell Programming-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 >#### ETC
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
