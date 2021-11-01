@@ -12,11 +12,9 @@
 <img src="https://img.shields.io/badge/Socket Programming-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Shell Programming-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
 
-
-
-
-
-
+>#### 자격증
++ 네트워크 관리사 2급
++ 리눅스마스터 2급
 
 <!--
 **ChoSeongYun/ChoSeongYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
