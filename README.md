@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Socket Programming-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Shell Programming-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
 
->#### ETC...
+>#### ETC
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
 
 >#### Certificate
