@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/Socket Programming-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Shell Programming-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
 
->#### etc...
+>#### ETC...
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
 
->#### certificate
+>#### Certificate
 + 네트워크 관리사 2급
 + 리눅스마스터 2급
 
