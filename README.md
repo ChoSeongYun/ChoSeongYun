@@ -14,7 +14,7 @@
 >#### etc...
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
 
->#### 자격증
+>#### certificate
 + 네트워크 관리사 2급
 + 리눅스마스터 2급
 
