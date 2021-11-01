@@ -1,5 +1,4 @@
-
-
+한림대학교 소프트웨어융합대학 조성윤 입니다.
 ---
 <h3 align = "center">OS to use</h3>
 <h3 align = "center"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
